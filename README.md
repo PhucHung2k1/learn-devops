@@ -1,6 +1,6 @@
 # learn-devops
-OSI Model
-  Mô hình OSI (Open systems interconnection) mô tả cách mà hệ thống mạng hoạt động. Có 7 tầng
+  OSI Model
+  OSI Model : Mô hình OSI (Open systems interconnection) mô tả cách mà hệ thống mạng hoạt động. Có 7 tầng
 -	Tầng 7: Application (Gần gũi với người dung, cùng cấp dịch vụ mạng trức tiếp cho ứng dụng ví dụ http, ftp)
 -	Tầng 6: Presentation (Định dạng dữ liệu, mã hóa, giải nén)
 -	Tầng 5: Session (Quản lý và duy trì phiên giao tiếp, thiết lập, quản lý và kết thúc kết nối)
@@ -11,8 +11,8 @@ OSI Model
   Chức năng:
 -	Tiêu chuẩn hóa cách các thiết bị và hệ thống mạng giao tiếp với nhau
 -	Cấu trúc phân tầng giúp phát triển tập trung từng phần riêng
-TCP/IP
-  Được dùng để truyền dữ liệu qua internet. Là mô hình phổ biến trên internet và đơn giản hơn OSI
+  TCP/IP
+  OSI Model: Được dùng để truyền dữ liệu qua internet. Là mô hình phổ biến trên internet và đơn giản hơn OSI
   Có 4 tầng
 -	Tầng 1: Network interface
 •	Tương ứng với Physical và Data link ở OSI
